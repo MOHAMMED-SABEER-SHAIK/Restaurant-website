@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+
+.main{
+    background-image: url(loginpagephoto.jpg);
+
+}
+
+.navbar{
+    width: 1200px;
+    height: 100px;
+    margin: cover;
+}
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+.logo{
+    color:rgb(252, 141, 6);
+    font-size: 65px;
+    font-family:Cambria;
+    padding-left: 10px;
+    float: left;
+    padding-top: 10px;
+}
+
+.menu{
+    width: 400px;
+    float: left;
+    height: 700px;
+    padding-left:100px;
+    padding-top: 10px;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 60px;
+    margin-top:30px;
+    font-size: 30px;
+}
+
+
+ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color:darkorange
+}
+
+
+
+
+.wel{
+font-size:30px;
+font-family:cambria ;
+color: darkorange;
+padding: 300px 400px ;
+}
+
+.content{
+    width: 120px;
+    height: auto;
+    color:aliceblue;
+    font-size:20px ;
+    padding:40px;
+    position:relative;
+    left: 50%;
+}
+.content .but {
+    background: darkorange;
+    border: none;
+    height: 40px;
+    width: 150px;
+    font-size: 25px;
+    border-radius: 10px;
+    cursor:pointer;
+}
+.content .but a{
+    text-decoration: none;
+    color: rgb(24, 23, 23);
+    transition: .3s ease;}
+.but:hover{background-color:whitesmoke;}
+ 
+.o{padding-left: 10px;color: darkorange;}
+.g{padding-top: 120px; padding-left:100px;font-size: 50px;color: darkorange;}
+.r{padding-left: 80px;font-size: 30px;color: darkorange;}
+.h{padding-left:130px;font-size: 30px;}
+.v{padding-left:10px;font-size: 30px;}
+.j{padding-left:350px;}
+.l{padding-left:40px;font-size: 30px;}
+
+
+.total {
+    height: 280px;
+    background-color:rgb(180, 180, 180);
+    font-size: 32px;
+}
+
+.total h2 {
+    text-align: center;
+}
+
+.contactinfo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.smedia {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+}
+
+.smedia a {
+    font-size: xx-large;
+    padding: 10px;
+    color:rgb(0, 0, 0);
+}
+
+.facebook:hover {
+    color:darkorange;
+}
+
+.instagram:hover {
+    color:darkorange;
+}
+
+.twitter:hover {
+    color:darkorange;
+}
+
+.kkmenu{
+    background-color: rgb(0, 0, 0);
+    width: 1200px;
+    
+    float: left;
+    height:100px;
+    padding-left:200px;
+    padding-top: 10px;}
+
+.gg{background-image:url(dinning.jpeg)}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
